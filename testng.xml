@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Default suite">
+  <test thread-count="5" verbose="2" name="Default test">
+    <classes>
+      <class name="testCases.Reg_GD_E2E434_TC000_Cambio_de_SIM_a_Microsim_CLIENTE_POSPAGO"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

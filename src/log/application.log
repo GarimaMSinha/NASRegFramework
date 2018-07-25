@@ -1,0 +1,9 @@
+02/07/2018 11:12:56 devpinoyLogger Opening IE Browser
+02/07/2018 11:13:00 devpinoyLogger Opening http://195.233.178.75:15103/postventa/
+02/07/2018 11:13:04 devpinoyLogger Trying to login
+02/07/2018 11:13:09 devpinoyLogger Clicking on Gestion de Sim
+02/07/2018 11:13:11 devpinoyLogger Giving MSISDN
+02/07/2018 11:13:26 devpinoyLogger Giving NIF
+02/07/2018 11:13:56 devpinoyLogger Got Error
+02/07/2018 11:13:56 devpinoyLogger Screenshot Captured
+02/07/2018 11:13:56 devpinoyLogger Closing Browser....
